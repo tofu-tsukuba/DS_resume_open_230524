@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber out/DS_resume_230422"] 1684915551 "out/DS_resume_230422.bcf" "out/DS_resume_230422.bbl" "out/DS_resume_230422" 1684915559
-  "out/DS_resume_230422.bcf" 1684915558 107032 453b1212ce1b3e47d4de715ecd81030c "lualatex"
+["biber out/DS_resume_230422"] 1684915551 "out/DS_resume_230422.bcf" "out/DS_resume_230422.bbl" "out/DS_resume_230422" 1684916425
+  "out/DS_resume_230422.bcf" 1684916424 107032 453b1212ce1b3e47d4de715ecd81030c "lualatex"
   "ref.bib" 1684912884 386 33f3278cd732206c4be352d5a81bf255 ""
   (generated)
   "out/DS_resume_230422.bbl"
   "out/DS_resume_230422.blg"
-["lualatex"] 1684915556 "/Users/yuumikawa/Documents/GitHub/DS_resume_open_230524/DS_resume_230422.tex" "out/DS_resume_230422.pdf" "DS_resume_230422" 1684915559
-  "/Users/yuumikawa/Documents/GitHub/DS_resume_open_230524/DS_resume_230422.tex" 1684915548 13260 4fb0a82b8e8d3e48f9bcf33d1ddb62c6 ""
+["lualatex"] 1684916423 "/Users/yuumikawa/Documents/GitHub/DS_resume_open_230524/DS_resume_230422.tex" "out/DS_resume_230422.pdf" "DS_resume_230422" 1684916425
+  "/Users/yuumikawa/Documents/GitHub/DS_resume_open_230524/DS_resume_230422.tex" 1684916420 13298 30317821a3b1cf736a056a929d7f9828 ""
   "/Users/yuumikawa/Library/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/haranoajigothic-medium.luc" 1676781933 1875292 410c3324c1fe22623b9898970742fdb2 ""
   "/Users/yuumikawa/Library/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/haranoajimincho-regular.luc" 1676774809 1961805 a4e8ee39345c1319a0076bad6921f9ae ""
   "/Users/yuumikawa/Library/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc" 1676774809 81875 9e8265965c5b4584efdeff727dbbed59 ""
@@ -295,11 +295,11 @@
   "/usr/local/texlive/2022/texmf-dist/tex/platex/jsclasses/jslogo.sty" 1601931076 5585 8e4615c54073c390d14154b29cee89cb ""
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/luahbtex/lualatex.fmt" 1676773831 4558588 e71351c9f3a7715ee5968e6b22fcccd3 ""
-  "DS_resume_230422.tex" 1684915548 13260 4fb0a82b8e8d3e48f9bcf33d1ddb62c6 ""
+  "DS_resume_230422.tex" 1684916420 13298 30317821a3b1cf736a056a929d7f9828 ""
   "fig/fig_sinc.png" 1684840310 27195 4290a2c91c31e784abbf58f85897b20f ""
-  "out/DS_resume_230422.aux" 1684915558 6398 f1e954efe0878cf3b14bd8ff01bd5e69 "lualatex"
+  "out/DS_resume_230422.aux" 1684916424 6516 0b2f5763a43232e83e9a80c3e4d02cf6 "lualatex"
   "out/DS_resume_230422.bbl" 1684915552 2572 755003998ef54bbf508a5bc5763a5074 "biber out/DS_resume_230422"
-  "out/DS_resume_230422.run.xml" 1684915558 2417 991482e1c0fc2b109401d1d995d1abcf "lualatex"
+  "out/DS_resume_230422.run.xml" 1684916424 2417 991482e1c0fc2b109401d1d995d1abcf "lualatex"
   (generated)
   "out/DS_resume_230422.aux"
   "out/DS_resume_230422.bcf"
