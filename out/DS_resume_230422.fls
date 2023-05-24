@@ -1,6 +1,6 @@
-PWD /Users/yuumikawa/Documents/GitHub/DS_re-sume-_230422
+PWD /Users/yuumikawa/Documents/GitHub/DS_resume_open_230524
 INPUT /usr/local/texlive/2022/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT /Users/yuumikawa/Documents/GitHub/DS_re-sume-_230422/DS_resume_230422.tex
+INPUT /Users/yuumikawa/Documents/GitHub/DS_resume_open_230524/DS_resume_230422.tex
 OUTPUT out/DS_resume_230422.log
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/lualatexquotejobname.lua
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/ltluatex.lua
