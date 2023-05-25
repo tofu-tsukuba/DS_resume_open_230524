@@ -6,6 +6,7 @@
 \usepackage{tikz}
 \usepackage{tcolorbox}
 \usepackage{biblatex}
+\usepackage{url}
 \addbibresource{ref.bib}
 
 \renewcommand{\figurename}{Fig.}
@@ -207,6 +208,34 @@ y(t)=\int_{-\infty}^{\infty}x(t')h(t-t')d\textcolor{red}{t'}
         \item 入出力関係の式を\ref{yhx}の形にする。
     \end{enumerate}
 }
+\subsection{インパルス応答の具体例}
+$y(t)=ax(t)+bx(t-t_0)$のインパルス応答を求めよ。
+\subsubsection{インパルス応答を求める(補充問題)}
+$$f(t)*\delta(t-t_0)=f(t-t_0)$$が成り立つことを示せ。
+\ans{
+    $$f(t)*\delta(t-t_0)=f(t-t_0)$$
+    の証明については、各自の演習に任せることとする。
+    \begin{enumerate}
+        \item 入出力関係を求める。
+        \item 入出力関係の式を\ref{yhx}の形にする。
+    \end{enumerate}
+    の手順に従って、進めていく。入出力関係は、仮定より、
+    $$y(t)=ax(t)+bx(t-t_0)$$
+    よって、これを連続システムにおけるインパルス応答
+    $$y(t)=\int_{-\infty}^{\infty}x(t')h(t-t')d\textcolor{red}{t'}$$
+    の形になるように変形していく。
+    \begin{align*}
+        y(t)&=ax(t)+bx(t-t_0)\\
+        y(t)&=\int_{-\infty}^{\infty}x(t')h(t-t')dt'\\
+        &=x(t)*h(t)
+    \end{align*}
+    の2つを
+    $$f(t)*\delta(t-t_0)=f(t-t_0)$$
+    が成り立つことを含めて見比べると、
+    $$h(t)=a\delta(t)+b\delta(t-t_0)$$
+    となることがわかる。
+}
+
 \subsection{Fourier変換のConvolution則}\label{YHX}
 Fourier変換のConvolution則を示し、\ref{yhx_c}を変形せよ。
 \ans{Fourier変換のConvolution則の証明は省略(教科書の章末問題を要参照)\\

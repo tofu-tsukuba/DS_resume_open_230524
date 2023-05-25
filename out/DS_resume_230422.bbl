@@ -48,6 +48,27 @@
       \field{year}{2007}
       \true{nocite}
     \endentry
+    \entry{liner-sys}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0e591e8d26362fc4a8d4c09ec12e55ad}{%
+           family={田村安孝},
+           familyi={田\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e591e8d26362fc4a8d4c09ec12e55ad}
+      \strng{fullhash}{0e591e8d26362fc4a8d4c09ec12e55ad}
+      \strng{bibnamehash}{0e591e8d26362fc4a8d4c09ec12e55ad}
+      \strng{authorbibnamehash}{0e591e8d26362fc4a8d4c09ec12e55ad}
+      \strng{authornamehash}{0e591e8d26362fc4a8d4c09ec12e55ad}
+      \strng{authorfullhash}{0e591e8d26362fc4a8d4c09ec12e55ad}
+      \field{sortinit}{田}
+      \field{sortinithash}{7b36f5378c2a1e3d12e8ad660fe3f49b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://tamlab.web.fc2.com/Ls.html}}
+      \field{title}{線形システム基礎 講義資料}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
     \entry{wakatuki}{unpublished}{}
       \name{author}{1}{}{%
         {{hash=397b11cc2af01f4c350873acd93115ce}{%
